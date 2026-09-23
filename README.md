@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Backend and Automation Testing.
- 🌱 I’m currently learning Spring Boot.
+
+ 🌱 I’m currently learning Spring Boot And Selenium.
