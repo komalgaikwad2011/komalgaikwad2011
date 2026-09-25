@@ -1,5 +1,5 @@
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=komalgaikwad2011&color=blue&style=flat-square)
 
 ## Hi there , I am Komal👋
 
@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 ### GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=komalgaikwad2011&theme=default)](https://git.io/streak-stats)
-      ![image](https://user-images.githubusercontent.com/20955511/221571948-1b69a2cc-87af-4e96-83fa-f01278c22c33.png)       
