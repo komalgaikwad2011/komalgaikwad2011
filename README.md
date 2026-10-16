@@ -39,3 +39,25 @@ Here are some ideas to get you started:
   <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalgaikwad2011&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
+
+
+
+### GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalgaikwad2011&layout=compact&theme=default" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=komalgaikwad2011&show_icons=true&theme=default" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalgaikwad2011&theme=default" />
+      </td>
+    </tr>
+  </table>
+</div>
